@@ -1,3 +1,6 @@
+
+<img width="432" alt="Screenshot 2024-01-23 at 10 53 48" src="https://github.com/Astronaut828/RegEx-Form-Validation/assets/125616425/a8f4fbf2-1cc5-4346-8aa8-3368e26f8560">
+
 # RegEx Form Validation Project
 
 This is a simple project for creating a user registration form with input validation using regular expressions (RegEx). The form includes fields for username, email, password, telephone, and profile slug, and each field has specific validation requirements.
