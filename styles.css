@@ -26,3 +26,7 @@ input{
 input.valid {
     border-color: #06af06;
 }
+
+input.invalid {
+    border-color: #ff0000;
+}
